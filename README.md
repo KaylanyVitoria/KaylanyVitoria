@@ -35,12 +35,12 @@ Atualmente curso a Universidade de Fortaleza e sigo construindo meu portfólio c
 
 ## <a id="projetos"></a>▸ Projetos em destaque
 
-| Projeto | Resumo | Stack registrada |
-|:--|:--|:--|
-| 🎀 [Barbie Landing Page](https://github.com/KaylanyVitoria/barbie-landing-page) | Landing page responsiva criada como teste prático para vaga de Aprendiz Front-End no Grupo O POVO. | HTML · CSS · JavaScript |
-| 🎵 [Unimusica Front-end](https://github.com/KaylanyVitoria/Unimusica-frontEnd) | Projeto front-end em JavaScript. | JavaScript |
-| 🧩 [Desafio-5](https://github.com/KaylanyVitoria/Desafio-5) | Exercício recente em HTML dentro da sequência de desafios. | HTML |
-| 🎧 [Playlist](https://github.com/KaylanyVitoria/Playlist) | Projeto acadêmico em Java. | Java |
+<div align="center">
+  <a href="https://github.com/KaylanyVitoria/barbie-landing-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KaylanyVitoria&repo=barbie-landing-page&hide_border=true&title_color=39ff88&icon_color=39ff88&text_color=c9d1d9&bg_color=0d1117" alt="Barbie Landing Page" width="400"></a>
+  <a href="https://github.com/KaylanyVitoria/Unimusica-frontEnd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KaylanyVitoria&repo=Unimusica-frontEnd&hide_border=true&title_color=39ff88&icon_color=39ff88&text_color=c9d1d9&bg_color=0d1117" alt="Unimusica Front-end" width="400"></a>
+  <a href="https://github.com/KaylanyVitoria/Desafio-5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KaylanyVitoria&repo=Desafio-5&hide_border=true&title_color=39ff88&icon_color=39ff88&text_color=c9d1d9&bg_color=0d1117" alt="Desafio-5" width="400"></a>
+  <a href="https://github.com/KaylanyVitoria/Playlist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KaylanyVitoria&repo=Playlist&hide_border=true&title_color=39ff88&icon_color=39ff88&text_color=c9d1d9&bg_color=0d1117" alt="Playlist" width="400"></a>
+</div>
 
 [↗ Explorar todos os repositórios](https://github.com/KaylanyVitoria?tab=repositories)
 
