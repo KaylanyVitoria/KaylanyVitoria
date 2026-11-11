@@ -19,15 +19,37 @@ Tecnologias identificadas nos meus repositórios públicos:
 
 ## <a id="projetos"></a>Projetos em destaque
 
-| Projeto | Repositório |
-| --- | --- |
-| **Barbie Landing Page** | [Ver projeto](https://github.com/KaylanyVitoria/barbie-landing-page) |
-| **Unimusica Front-end** | [Ver projeto](https://github.com/KaylanyVitoria/Unimusica-frontEnd) |
-| **Desafio-5** | [Ver projeto](https://github.com/KaylanyVitoria/Desafio-5) |
-| **Playlist** | [Ver projeto](https://github.com/KaylanyVitoria/Playlist) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/KaylanyVitoria/barbie-landing-page">Barbie Landing Page</a></h3>
+<p>Landing page responsiva desenvolvida como prática de front-end.</p>
+<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/KaylanyVitoria/Unimusica-frontEnd">Unimusica Front-end</a></h3>
+<p><code>JavaScript</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/KaylanyVitoria/Desafio-5">Desafio-5</a></h3>
+<p><code>HTML</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/KaylanyVitoria/Playlist">Playlist</a></h3>
+<p><code>Java</code></p>
+</td>
+</tr>
+</table>
 
-[Ver todos os repositórios](https://github.com/KaylanyVitoria?tab=repositories)
+<p align="center"><a href="https://github.com/KaylanyVitoria?tab=repositories"><strong>Explorar todos os repositórios →</strong></a></p>
 
-## <a id="github"></a>GitHub
+## <a id="github"></a>Atividade no GitHub
 
-Acompanhe minhas [contribuições](https://github.com/KaylanyVitoria) e explore as tecnologias diretamente nos [repositórios públicos](https://github.com/KaylanyVitoria?tab=repositories).
+<table>
+<tr>
+<td align="center" width="50%"><strong>Contribuições</strong><br><a href="https://github.com/KaylanyVitoria">Ver gráfico de atividade no perfil</a></td>
+<td align="center" width="50%"><strong>Linguagens e projetos</strong><br><a href="https://github.com/KaylanyVitoria?tab=repositories">Explorar repositórios públicos</a></td>
+</tr>
+</table>
